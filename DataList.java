@@ -1,7 +1,6 @@
 import javax.swing.text.html.HTMLDocument;
 import java.util.*;
 import java.util.function.Consumer;
-//my love is pelmeshky
 
 class DataList<T> implements Iterable<T>{
 
